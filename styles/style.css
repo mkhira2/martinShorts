@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+
+img {
+	max-width: 100%;
+}
+
+.container {
+	text-align: center;
+}
+
+h1 {
+	font-family: Impact;
+	font-size: 100px;
+	text-align: center;
+}
