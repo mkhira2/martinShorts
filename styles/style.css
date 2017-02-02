@@ -15,3 +15,10 @@ h1 {
 	font-size: 100px;
 	text-align: center;
 }
+
+p {
+	font-family: Helvetica;
+	font-size: 20px;
+	text-align: center;
+	color: red;
+}
