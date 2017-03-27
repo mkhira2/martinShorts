@@ -1,24 +1,24 @@
 * {
-	box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 img {
-	max-width: 100%;
+    max-width: 100%;
 }
 
 .container {
-	text-align: center;
+    text-align: center;
 }
 
 h1 {
-	font-family: Impact;
-	font-size: 100px;
-	text-align: center;
+    font-family: Impact;
+    font-size: 100px;
+    text-align: center;
 }
 
 p {
-	font-family: Helvetica;
-	font-size: 20px;
-	text-align: center;
-	color: red;
+    font-family: Helvetica;
+    font-size: 20px;
+    text-align: center;
+    color: red;
 }
